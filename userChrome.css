@@ -1,6 +1,4 @@
-.titlebar-buttonbox-container {
-  display: none !important;
-}
+
 #personal-bookmarks .bookmark-item > .toolbarbutton-text { display:none !important; }
 #PlacesToolbarItems {
   display: flex !important;
