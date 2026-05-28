@@ -1,0 +1,17 @@
+.titlebar-buttonbox-container, #pageActionButton {
+  display: none !important;
+}
+#personal-bookmarks .bookmark-item > .toolbarbutton-text { display:none !important; }
+#PlacesToolbarItems {
+  display: flex !important;
+  justify-content: center !important;
+}
+#context-navigation,
+#context-sep-navigation {
+  display:none !important;
+}
+
+#back-button,
+#forward-button {
+  display: none !important;
+}
